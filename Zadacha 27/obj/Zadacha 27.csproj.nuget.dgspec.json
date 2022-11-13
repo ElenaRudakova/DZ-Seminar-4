@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\er171\\Desktop\\Git\\C#\\Seminar 4\\Seminar 4.csproj": {}
+    "C:\\Users\\er171\\Desktop\\Git\\C#\\Seminar 4\\Zadacha 27\\Zadacha 27.csproj": {}
   },
   "projects": {
-    "C:\\Users\\er171\\Desktop\\Git\\C#\\Seminar 4\\Seminar 4.csproj": {
+    "C:\\Users\\er171\\Desktop\\Git\\C#\\Seminar 4\\Zadacha 27\\Zadacha 27.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\er171\\Desktop\\Git\\C#\\Seminar 4\\Seminar 4.csproj",
-        "projectName": "Seminar 4",
-        "projectPath": "C:\\Users\\er171\\Desktop\\Git\\C#\\Seminar 4\\Seminar 4.csproj",
+        "projectUniqueName": "C:\\Users\\er171\\Desktop\\Git\\C#\\Seminar 4\\Zadacha 27\\Zadacha 27.csproj",
+        "projectName": "Zadacha 27",
+        "projectPath": "C:\\Users\\er171\\Desktop\\Git\\C#\\Seminar 4\\Zadacha 27\\Zadacha 27.csproj",
         "packagesPath": "C:\\Users\\er171\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\er171\\Desktop\\Git\\C#\\Seminar 4\\obj\\",
+        "outputPath": "C:\\Users\\er171\\Desktop\\Git\\C#\\Seminar 4\\Zadacha 27\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\er171\\AppData\\Roaming\\NuGet\\NuGet.Config"
